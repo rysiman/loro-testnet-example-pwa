@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@rysiman/new-test-1",
+  "name": "@rysiman-test/new-test-1",
   "version": "0.0.26",
   "repository": "https://github.com/rysiman/loro-testnet-example-pwa",
   "scripts": {
